@@ -20,6 +20,7 @@ setopt prompt_subst;
 PS1="%K{default}%F{magenta}%B%1~%b%f"'$(git_branch_name)'"%k %# "
 ```
 step 3: restart your terminal to see the changes
+
 ![Screenshot 2022-06-25 at 9 53 30 AM](https://user-images.githubusercontent.com/55612421/175757866-13c34166-2c1c-4be6-8037-550ad248d258.png)
 
 ## To customise the style
